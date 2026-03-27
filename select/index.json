@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "シガレット",
+  "base_artist": "あいみょん",
+  "createdAt": "2026-03-27T14:49:09.659077Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シガレット",
+      "artist": "カミナリ&ロケッツ",
+      "has_synced": false,
+      "path": "select/01_シガレット_カミナリ&ロケッツ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ホワイト・シガレット - 2020 Remaster",
+      "artist": "P-MODEL",
+      "has_synced": false,
+      "path": "select/02_ホワイト・シガレット_-_2020_Remaster_P-MODEL.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "シガレット",
+      "artist": "Aimyon",
+      "has_synced": true,
+      "path": "select/03_シガレット_Aimyon.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ホワイト・シガレット",
+      "artist": "P-MODEL",
+      "has_synced": false,
+      "path": "select/04_ホワイト・シガレット_P-MODEL.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シガレット",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_01_シガレット_あいみょん.txt"
+    }
+  ]
+}
